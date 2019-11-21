@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tygge: A UI KIt for everyone
 
 You can use the [editor on GitHub](https://github.com/Tygge/tygge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
