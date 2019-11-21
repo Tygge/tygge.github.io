@@ -1,8 +1,11 @@
 ## Tygge: A UI KIt for everyone
 
-You can use the [editor on GitHub](https://github.com/Tygge/tygge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+From 2016-2018 existed a plucky little startup that aspired to bring chef cooked meals into 
+dinner parties and family engagements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unfortunately, like many great ideas Tygge didnt find the things it needed to thrive but it produced a handy little UI Kit.
+
+Available for Sketch and FIgma, The Tygge UI kit lives on and will continue to grow with everyone’s help
 
 ### Markdown
 
